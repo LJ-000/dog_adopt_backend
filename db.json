@@ -6,7 +6,7 @@
       "breed": "Retriever Mix",
       "age": "8 Months",
       "image": "https://www.shelterluv.com/sites/default/files/animal_pics/5596/2021/02/01/17/20210201171842.png",
-      "likes": true
+      "likes": false
     },
     {
       "id": 2,
@@ -30,7 +30,7 @@
       "breed": "Beagle Mix",
       "age": "3 Years",
       "image": "https://www.shelterluv.com/sites/default/files/animal_pics/5596/2021/04/06/11/20210406113233.png",
-      "likes": true
+      "likes": false
     },
     {
       "id": 5,
@@ -38,7 +38,7 @@
       "breed": "Chihuahua",
       "age": "6 Years",
       "image": "https://www.shelterluv.com/sites/default/files/animal_pics/5596/2021/04/05/08/20210405080552.png",
-      "likes": true
+      "likes": false
     },
     {
       "id": 6,
@@ -46,7 +46,7 @@
       "breed": "Lab/Retreiver",
       "age": "4 Months",
       "image": "https://www.shelterluv.com/sites/default/files/animal_pics/5596/2021/04/18/13/20210418133204.png",
-      "likes": true
+      "likes": false
     }
   ]
 }
